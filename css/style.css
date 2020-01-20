@@ -13,3 +13,8 @@ img{
 .container{
     margin:auto;
   }
+
+  /* PAGE */
+#page{
+    margin-bottom:40px;
+  }
