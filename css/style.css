@@ -13,3 +13,8 @@ img{
 .container{
     margin:auto;
   }
+
+  /* HEADER */
+#main-header{
+    border-bottom:1px solid #56a79a;
+  }
