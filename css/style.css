@@ -13,3 +13,9 @@ img{
 .container{
     margin:auto;
   }
+
+  /* FOOTER */
+#main-footer{
+    background:#56a79a;
+    color:#fff;
+  }
