@@ -22,3 +22,8 @@ img{
   .primary-background{
     background:#56a79a;
   }
+
+  /* HEADER */
+#main-header{
+    border-bottom:1px solid #56a79a;
+  }
