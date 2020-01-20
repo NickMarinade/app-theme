@@ -13,3 +13,12 @@ img{
 .container{
     margin:auto;
   }
+
+  /* COMMON CLASSES */
+.primary-text{
+    color:#56a79a;
+  }
+  
+  .primary-background{
+    background:#56a79a;
+  }
