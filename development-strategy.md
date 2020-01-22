@@ -1,7 +1,7 @@
 # Development Strategy
 
 
-| Step Name | User Story | Changes in HTML | Changes in CSS |
+| Step Name | User Story                 | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
 | __Preparation__ | As a developer I want to set up all the basics for my project | Creating new repo with .html file to work in| Creating new repo with .css file to work in |
 | __Header__ | As a developer I want to start working with my .html | Making a header with navigation bar in it, commit id - e7e8d46888576f8e15bd8f854b358a79808decf5. | nothing |
